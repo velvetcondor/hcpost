@@ -1,0 +1,6 @@
+エコー "＃hcpost" >> README.md 
+git init 
+git add README.md 
+git commit -m "最初のコミット" 
+git remote add origin https://github.com/velvetcondor/hcpost.git
+ git push -u origin master
